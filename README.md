@@ -132,6 +132,8 @@ audio-analysis/
 │── README.md
 │── samples/
 ```
+sample.wav
+[sample1.wav](https://github.com/user-attachments/files/26635719/sample1.wav)
 
 ---
 
