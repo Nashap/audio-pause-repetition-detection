@@ -44,6 +44,8 @@ python main.py
 ```
 
 ---
+## DEMO VIDEO 
+https://drive.google.com/file/d/1AIJTEHF9ie7RPSuR1TasgGJ5BlDymBp2/view?usp=sharing
 
 ## 📊 Sample Output
 
